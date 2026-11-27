@@ -44,3 +44,7 @@ To transform raw sales data into meaningful business insights using interactive 
 ## 👨‍💻 About Me
 Aspiring Data Analyst | SQL | Excel | Power BI | Python
 
+
+Dashboard screenshot will be added here.
+## 📷 Dashboard Preview
+![Executive Sales Dashboard](Dashboard_Preview.png)
